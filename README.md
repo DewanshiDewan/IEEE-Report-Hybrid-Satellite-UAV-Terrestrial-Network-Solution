@@ -1,5 +1,5 @@
 # IEEE-Report-Enabling 5G on the Ocean: A Hybrid Satellite-UAV-Terrestrial Network Solution
-—In this research paper we will look at the problem of
+In this research paper we will look at the problem of
 Maritime communication networks behind far behind the existing
 5th Generation technology that exists mainly in the terrestrial
 domain all across the world. We will also look at the Why’s
